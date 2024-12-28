@@ -1,0 +1,7 @@
+## A tray utility for quickly connecting to chalmers studat computers
+A small python tray that allows you to connect to free studat computers without visiting the website.
+It's not completed but the basic functionality works as of 2024-12-28
+
+The program expects two environment variables, they can be specified with a .env file in the same folder as the script.
+CID_USERNAME=cid@net.chalmers.se
+CID_PASSWORD=pass

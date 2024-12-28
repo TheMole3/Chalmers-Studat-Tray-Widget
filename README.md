@@ -4,8 +4,10 @@ A small windows tray written in python that allows you to connect to available s
 It's not completed but the basic functionality works as of 2024-12-28
 
 The program expects two environment variables, they can be specified with a .env file in the same folder as the script.
+```
 CID_USERNAME=cid@net.chalmers.se
 CID_PASSWORD=pass
+```
 
 **Do not use this without verifying the source code! Giving out your credentials in plain text is very dangerous!**
 

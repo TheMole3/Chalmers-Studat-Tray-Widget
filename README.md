@@ -11,4 +11,4 @@ CID_PASSWORD=pass
 
 **Do not use this without verifying the source code! Giving out your credentials in plain text is very dangerous!**
 
-Currently salar.json is filled with a couple of rooms, this list is used for matching the computer to a timeedit room, it should be filled with ids from vantcomp as keys and ids from timeedit as values
+Currently salar.json is filled with a couple of rooms, this list is used for matching the computer to a timeedit room, it should be filled with ids from vacantcomp as keys and ids from timeedit as values
